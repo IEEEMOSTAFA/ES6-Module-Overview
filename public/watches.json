@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "Apple Watch Series 88",
+      "price": 399
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy Watch 55",
+      "price": 279
+    },
+    {
+      "id": 3,
+      "name": "Garmin Forerunner 945",
+      "price": 599
+    },
+    {
+      "id": 4,
+      "name": "Fitbit Versa 33",
+      "price": 229
+    },
+    {
+      "id": 5,
+      "name": "Fossil Gen 66",
+      "price": 299
+    }
+  ]
+  
